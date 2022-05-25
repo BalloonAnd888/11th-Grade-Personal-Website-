@@ -1,0 +1,4 @@
+
+
+1.Open new window for all links
+2.Different active colors for links
